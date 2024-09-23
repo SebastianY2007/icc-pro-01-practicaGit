@@ -1,9 +1,91 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Página-1" id="diP-O9pLG7JxzAGupc3B">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="1585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6evMOSts6bq80Mxan7AQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6evMOSts6bq80Mxan7AQ-2" target="6evMOSts6bq80Mxan7AQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6evMOSts6bq80Mxan7AQ-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Inicio&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6evMOSts6bq80Mxan7AQ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6evMOSts6bq80Mxan7AQ-3" target="6evMOSts6bq80Mxan7AQ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6evMOSts6bq80Mxan7AQ-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Base Altura Area&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6evMOSts6bq80Mxan7AQ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6evMOSts6bq80Mxan7AQ-5" target="6evMOSts6bq80Mxan7AQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6evMOSts6bq80Mxan7AQ-5" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Igresar Base y Altura&lt;/font&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6evMOSts6bq80Mxan7AQ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6evMOSts6bq80Mxan7AQ-7" target="6evMOSts6bq80Mxan7AQ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6evMOSts6bq80Mxan7AQ-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Área=(Base*Altura)/2&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6evMOSts6bq80Mxan7AQ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6evMOSts6bq80Mxan7AQ-9" target="6evMOSts6bq80Mxan7AQ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6evMOSts6bq80Mxan7AQ-9" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Mostrar Area&lt;/font&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6evMOSts6bq80Mxan7AQ-11" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Fin&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-570" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6evMOSts6bq80Mxan7AQ-14" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="441" y="-80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6evMOSts6bq80Mxan7AQ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6evMOSts6bq80Mxan7AQ-17" target="6evMOSts6bq80Mxan7AQ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6evMOSts6bq80Mxan7AQ-17" value="Ingresar un numero" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="421" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6evMOSts6bq80Mxan7AQ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6evMOSts6bq80Mxan7AQ-19" target="6evMOSts6bq80Mxan7AQ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6evMOSts6bq80Mxan7AQ-19" value="Numero" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="421" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6evMOSts6bq80Mxan7AQ-29" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6evMOSts6bq80Mxan7AQ-23" target="6evMOSts6bq80Mxan7AQ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6evMOSts6bq80Mxan7AQ-31" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6evMOSts6bq80Mxan7AQ-23" target="6evMOSts6bq80Mxan7AQ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6evMOSts6bq80Mxan7AQ-23" value="Num = Par" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="441" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6evMOSts6bq80Mxan7AQ-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6evMOSts6bq80Mxan7AQ-28" target="6evMOSts6bq80Mxan7AQ-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6evMOSts6bq80Mxan7AQ-28" value="Mostrar(&quot;Numero Par&quot;)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="581" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6evMOSts6bq80Mxan7AQ-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6evMOSts6bq80Mxan7AQ-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6evMOSts6bq80Mxan7AQ-30" value="Mostrar(&quot;Numero Impar&quot;)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="261" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6evMOSts6bq80Mxan7AQ-34" value="Fin" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="441" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

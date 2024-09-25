@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.3 Safari/605.1.15" version="24.7.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6.1 Safari/605.1.15" version="24.7.16">
   <diagram name="Página-1" id="diP-O9pLG7JxzAGupc3B">
-    <mxGraphModel dx="1444" dy="2225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1444" dy="2164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -260,49 +260,49 @@
         <mxCell id="YR5uZv47MiNPMvW6iYIs-70" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="797" y="3080" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YR5uZv47MiNPMvW6iYIs-71" target="A9L-10VFelwN_b7H79AT-3">
+        <mxCell id="A9L-10VFelwN_b7H79AT-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YR5uZv47MiNPMvW6iYIs-71" target="A9L-10VFelwN_b7H79AT-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YR5uZv47MiNPMvW6iYIs-71" value="Valores A, B y C" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="778.5" y="3250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-1" value="&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Ejercicio 5: Desarrolle un algoritmo que permita leer tres valores y almacenarnos A, B y C respectivamente.&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;El algoritmo debe imprimir cual es el mayor y cual es el menor. Recuerde constatar que los tres valores&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;introducidos&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&amp;nbsp;por el teclado sean valores distintos.&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;Presente un mensaje de alerta en caso de que se detecte la introducción de valores iguales.&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="A9L-10VFelwN_b7H79AT-1" value="&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Ejercicio 5: Desarrolle un algoritmo que permita leer tres valores y almacenarnos A, B y C respectivamente.&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;El algoritmo debe imprimir cual es el mayor y cual es el menor. Recuerde constatar que los tres valores&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;introducidos&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&amp;nbsp;por el teclado sean valores distintos.&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;Presente un mensaje de alerta en caso de que se detecte la introducción de valores iguales.&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="78" y="2952" width="1520" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A9L-10VFelwN_b7H79AT-3">
+        <mxCell id="A9L-10VFelwN_b7H79AT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="A9L-10VFelwN_b7H79AT-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="838.5151515151517" y="3530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-3" value="Ingrese el valor A" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="A9L-10VFelwN_b7H79AT-3" value="Ingrese el valor A" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="757.75" y="3390" width="161.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A9L-10VFelwN_b7H79AT-8">
+        <mxCell id="A9L-10VFelwN_b7H79AT-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="A9L-10VFelwN_b7H79AT-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="841.0000000000002" y="3670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-8" value="Ingrese el valor B" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="A9L-10VFelwN_b7H79AT-8" value="Ingrese el valor B" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="760.25" y="3530" width="161.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="A9L-10VFelwN_b7H79AT-11" target="A9L-10VFelwN_b7H79AT-19">
+        <mxCell id="A9L-10VFelwN_b7H79AT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="A9L-10VFelwN_b7H79AT-11" target="A9L-10VFelwN_b7H79AT-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-11" value="Ingrese el valor C" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="A9L-10VFelwN_b7H79AT-11" value="Ingrese el valor C" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="758.25" y="3670" width="161.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-23" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Si&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="A9L-10VFelwN_b7H79AT-19" target="A9L-10VFelwN_b7H79AT-22">
+        <mxCell id="A9L-10VFelwN_b7H79AT-23" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Si&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="A9L-10VFelwN_b7H79AT-19" target="A9L-10VFelwN_b7H79AT-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-27" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;No&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A9L-10VFelwN_b7H79AT-19">
+        <mxCell id="A9L-10VFelwN_b7H79AT-27" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;No&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="A9L-10VFelwN_b7H79AT-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1048.5" y="3860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-19" value="A = B&lt;div&gt;A = C&lt;/div&gt;&lt;div&gt;B = C&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A9L-10VFelwN_b7H79AT-19" value="A = B&lt;div&gt;A = C&lt;/div&gt;&lt;div&gt;B = C&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="753.5" y="3780" width="170" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="A9L-10VFelwN_b7H79AT-22">
+        <mxCell id="A9L-10VFelwN_b7H79AT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="A9L-10VFelwN_b7H79AT-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="840" y="3350" as="targetPoint" />
             <Array as="points">
@@ -310,74 +310,77 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-22" value="Los valores no pueden&amp;nbsp;&lt;div&gt;ser iguales&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="A9L-10VFelwN_b7H79AT-22" value="Los valores no pueden&amp;nbsp;&lt;div&gt;ser iguales&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="467" y="3720" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-30" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;No&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="A9L-10VFelwN_b7H79AT-30" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;No&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1107.1666666666667" y="3961" as="targetPoint" />
             <mxPoint x="1107.4399999999998" y="3916" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A9L-10VFelwN_b7H79AT-28" target="A9L-10VFelwN_b7H79AT-35">
+        <mxCell id="A9L-10VFelwN_b7H79AT-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="A9L-10VFelwN_b7H79AT-28" target="A9L-10VFelwN_b7H79AT-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-40" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Si&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A9L-10VFelwN_b7H79AT-36">
+        <mxCell id="A9L-10VFelwN_b7H79AT-40" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Si&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="A9L-10VFelwN_b7H79AT-36" vertex="1" connectable="0">
           <mxGeometry x="-0.104" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-28" value="A &amp;gt; B y A &amp;gt; C" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A9L-10VFelwN_b7H79AT-28" value="A &amp;gt; B y A &amp;gt; C" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1049" y="3805" width="116.88" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-32" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;No&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A9L-10VFelwN_b7H79AT-29" target="A9L-10VFelwN_b7H79AT-31">
+        <mxCell id="A9L-10VFelwN_b7H79AT-32" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;No&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="A9L-10VFelwN_b7H79AT-29" target="A9L-10VFelwN_b7H79AT-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A9L-10VFelwN_b7H79AT-29" target="A9L-10VFelwN_b7H79AT-43">
+        <mxCell id="A9L-10VFelwN_b7H79AT-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="A9L-10VFelwN_b7H79AT-29" target="A9L-10VFelwN_b7H79AT-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-51" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Si&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A9L-10VFelwN_b7H79AT-44">
+        <mxCell id="A9L-10VFelwN_b7H79AT-51" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Si&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="A9L-10VFelwN_b7H79AT-44" vertex="1" connectable="0">
           <mxGeometry x="-0.1235" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-29" value="B &amp;gt; A y B &amp;gt; C" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A9L-10VFelwN_b7H79AT-29" value="B &amp;gt; A y B &amp;gt; C" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1048.88" y="3961" width="117" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A9L-10VFelwN_b7H79AT-31" target="A9L-10VFelwN_b7H79AT-45">
+        <mxCell id="A9L-10VFelwN_b7H79AT-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="A9L-10VFelwN_b7H79AT-31" target="A9L-10VFelwN_b7H79AT-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-52" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Si&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A9L-10VFelwN_b7H79AT-46">
+        <mxCell id="A9L-10VFelwN_b7H79AT-52" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Si&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="A9L-10VFelwN_b7H79AT-46" vertex="1" connectable="0">
           <mxGeometry x="-0.1046" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A9L-10VFelwN_b7H79AT-31" target="A9L-10VFelwN_b7H79AT-45">
+        <mxCell id="A9L-10VFelwN_b7H79AT-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="A9L-10VFelwN_b7H79AT-31" target="A9L-10VFelwN_b7H79AT-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-31" value="C &amp;gt; A y C &amp;gt; B" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A9L-10VFelwN_b7H79AT-31" value="C &amp;gt; A y C &amp;gt; B" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1048.88" y="4120" width="117" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="A9L-10VFelwN_b7H79AT-35" target="A9L-10VFelwN_b7H79AT-56">
+        <mxCell id="A9L-10VFelwN_b7H79AT-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="A9L-10VFelwN_b7H79AT-35" target="A9L-10VFelwN_b7H79AT-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-35" value="A es el mayor" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="A9L-10VFelwN_b7H79AT-35" value="A es el mayor" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1244.3200000000002" y="3830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A9L-10VFelwN_b7H79AT-43" target="A9L-10VFelwN_b7H79AT-56">
+        <mxCell id="A9L-10VFelwN_b7H79AT-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="A9L-10VFelwN_b7H79AT-43" target="A9L-10VFelwN_b7H79AT-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-43" value="B es el mayor" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="A9L-10VFelwN_b7H79AT-43" value="B es el mayor" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1244.38" y="3986" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="A9L-10VFelwN_b7H79AT-45" target="A9L-10VFelwN_b7H79AT-56">
+        <mxCell id="A9L-10VFelwN_b7H79AT-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="A9L-10VFelwN_b7H79AT-45" target="A9L-10VFelwN_b7H79AT-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-45" value="C es el mayor" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="A9L-10VFelwN_b7H79AT-45" value="C es el mayor" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1244.38" y="4145" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A9L-10VFelwN_b7H79AT-56" value="FIN" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="A9L-10VFelwN_b7H79AT-56" value="FIN" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1510" y="3976" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P0fLIiBa_LavEUqAMEqs-2" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Ejercicio 2:&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="666" y="-390" width="346" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
